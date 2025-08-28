@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mojtaba-Behboudi.github.io/new/manifests/mojifest.json",
     "label" : "tracto"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mojtaba-Behboudi.github.io/new/manifests/mojifest",
+    "label" : "tracto"
   } ]
 }
